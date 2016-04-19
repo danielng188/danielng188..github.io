@@ -1,2 +1,2 @@
-# danielng188..github.io
+# danielng188.github.io
 My Github Website
